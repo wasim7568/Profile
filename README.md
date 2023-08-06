@@ -28,6 +28,8 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 <div style={{display:'flex'}}>
 <p align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/YtPyypq/databricks.png" alt="databricks" width="40" height="40"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/C5wrH5F/alteryx.png" alt="alteryx" width="40" height="40"></a>
 <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/null/numpy.png"/>
 <img src="https://img.icons8.com/color/48/null/pandas.png"/>
