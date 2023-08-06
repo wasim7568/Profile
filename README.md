@@ -13,6 +13,9 @@
 - 💬 Ask me about **Excel,SQL,Python,Tableau, Alteryx, Databricks and Pyspark**
 
 - 📫 How to reach me **wasimakram7568@gmail.com**
+
+- [![Linkedin Badge](https://img.shields.io/badge/-Wasim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wasim-akaram-26a0ab152/)
+
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasim7568&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasim7568&theme=github_dark">
