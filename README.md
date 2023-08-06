@@ -1,5 +1,5 @@
 <h1 align="center">I'm Wasim Akaram 👋🏼</h1>
-<h3 align="center">A passionate Data Analyst and Part Time data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
+<h3 align="center">A passionate Data Analyst and part time data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India</h3>
 <div align="center">
 <img src = "https://i.postimg.cc/3JZnX2Wh/profile.gif">
 </div>
